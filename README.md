@@ -153,3 +153,7 @@ You have 2 different options to manage virtual hosts
         }
 
 [![Build Status](https://travis-ci.org/example42/puppet-nginx.png?branch=master)](https://travis-ci.org/example42/puppet-nginx)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gehel/puppet-nginx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
